@@ -1,4 +1,4 @@
 # paintingApp
 # 노마드코더
 # https://nomadcoders.co/javascript-for-beginners-2/lobby
-# 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
+# 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
